@@ -8,14 +8,12 @@ We also use the 20 newsgroups data <http://qwone.com/~jason/20Newsgroups/><br>
 
 
 ![ex1](https://github.com/DUT-NLP/TPTSVM/blob/master/Sample/ex1.png)<br>
+Fig.1. Accuracy on the mushroom dataset <br>
 
 ![ex2](https://github.com/DUT-NLP/TPTSVM/blob/master/Sample/ex2.png)<br>
 
-
-
-<span style="color:blue">
 Fig.2. Comparison results on the newsgroups data 
-</span>
+
 
 
 
@@ -24,11 +22,13 @@ Fig.2. Comparison results on the newsgroups data
 Windows下直接编译main.cpp，运行<br>
 程序会在D盘下新建文件夹PTSVMtemp<br>
 
-### 参数
+### 参数说明
 1. argv1：源领域
 2. argv2：目标领域标记数据
 3. argv3：目标领域未标记数据
 4. argv4: 中间结果输出路径
+5. 101: 算法的迭代次数
+6. 20: 每次迭代从目标领域未标注数据选取的可信样例个数
 > 控制台输出文件<br>
 
 ## 参考文献
