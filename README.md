@@ -4,7 +4,9 @@
 The mushroom data from the UCI machine learnning repository <http://archive.ics.uci.edu/ml/datasets/Mushroom><br>
 We also use the 20 newsgroups data <http://qwone.com/~jason/20Newsgroups/><br>
 ## Results
-
+算法的详细步骤请参考文献（Semi-supervised Learning with Transfer Learning）<br>在mushroom数据集上的实验结果和在20 newsgroups 上的实验结果如下图所示，图1为mushroom数据集的结果对比，图2为 20 newsgroups 上三个任务的对比结果。<br>
+![ex1]()
+![ex2]()
 ## Running the models
 Windows下直接编译main.cpp，运行<br>
 程序会在D盘下新建文件夹PTSVMtemp<br>
