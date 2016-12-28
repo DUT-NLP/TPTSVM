@@ -13,10 +13,8 @@ We also use the 20 newsgroups data <http://qwone.com/~jason/20Newsgroups/><br>
 
 
 
-<span align="center">
-
+<span style="color:blue">
 Fig.2. Comparison results on the newsgroups data 
-
 </span>
 
 
