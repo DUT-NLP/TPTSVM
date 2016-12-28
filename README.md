@@ -6,8 +6,9 @@ We also use the 20 newsgroups data <http://qwone.com/~jason/20Newsgroups/><br>
 ## Results
 
 ## Running the models
+Windows下直接编译main.cpp，运行<br>
 程序会在D盘下新建文件夹PTSVMtemp<br>
-run main.cpp
+
 ### 参数
 1. argv1：源领域
 2. argv2：目标领域标记数据
